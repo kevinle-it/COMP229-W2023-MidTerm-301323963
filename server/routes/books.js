@@ -1,3 +1,10 @@
+/**
+ * File name: books.js
+ * Student name: Minh Tri Le
+ * Student ID: 301323963
+ * Date: Mar 05, 2023
+ */
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();
